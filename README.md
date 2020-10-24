@@ -9,6 +9,7 @@
 </a>&nbsp;&nbsp;
 <a href="mukhtar.otarbayev@gmail.com">
   <img align="left" alt="Mukhtar's email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <p>
 
 Hello everyone!!! :relaxed:
