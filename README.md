@@ -7,9 +7,10 @@
 <a href="https://www.facebook.com/mukha.aisultan/">
   <img align="left" alt="Mukhtar's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>&nbsp;&nbsp;
-<a href="mukhtar.otarbayev@gmail.com">
+<a href="sing [mailto](mailto:">
   <img align="left" alt="Mukhtar's email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="mailto:mukhtar.otarbayev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <p>
 <br>
 
