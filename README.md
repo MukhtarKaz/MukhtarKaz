@@ -11,8 +11,9 @@
   <img align="left" alt="Mukhtar's email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <p>
+<br>
 
-Hello everyone!!! :relaxed:
+**Hello everyone!!!** :relaxed:
 
 I am a fullstack software engineer with a background in the nuclear power industry and geology. Studying new languages, exploring the latest technologies, and fishing along the river always gives me a sense of joy and pushes me forward.
 
@@ -22,7 +23,7 @@ Currently, I am living in Tokyo. :sushi:
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.flaticon.com/free-icon/javascript_919828"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
