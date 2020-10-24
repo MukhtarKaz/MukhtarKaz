@@ -6,7 +6,9 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/mukha.aisultan/">
   <img align="left" alt="Mukhtar's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a>&nbsp;&nbsp;
+<a href="mukhtar.otarbayev@gmail.com">
+  <img align="left" alt="Mukhtar's email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <p>
 
 Hello everyone!!! :relaxed:
