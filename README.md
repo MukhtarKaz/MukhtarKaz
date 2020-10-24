@@ -1,13 +1,17 @@
 <img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" >
 
+<p align='center'>
 <a href="https://www.linkedin.com/in/mukhtarotarbayev/">
   <img align="center" alt="Mukhtar's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/mukha.aisultan/">
   <img align="center" alt="Mukhtar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<p>
 
 <br>
+
+Hello everyone!!! 👋
 
 I am a software engineer with a background in the nuclear power industry and geology. Studying new languages, exploring the latest technologies, and fishing along the river always gives me a sense of joy and pushes me forward.
 
