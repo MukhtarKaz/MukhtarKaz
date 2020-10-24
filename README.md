@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" width="25px">
+<img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" >
 
 ### Hi there 👋
 
