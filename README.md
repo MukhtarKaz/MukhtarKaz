@@ -1,3 +1,5 @@
+<img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" width="25px">
+
 ### Hi there 👋
 
 **MukhtarKaz/MukhtarKaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
