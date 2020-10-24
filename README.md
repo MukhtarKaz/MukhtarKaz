@@ -14,13 +14,26 @@
 
 Hello everyone!!! :relaxed:
 
-I am a software engineer with a background in the nuclear power industry and geology. Studying new languages, exploring the latest technologies, and fishing along the river always gives me a sense of joy and pushes me forward.
+I am a fullstack software engineer with a background in the nuclear power industry and geology. Studying new languages, exploring the latest technologies, and fishing along the river always gives me a sense of joy and pushes me forward.
 
 My way to software development began when I was working in Kazakhstan, where I started learning programming at the local coding school. In 2019, to get experience and a comprehensive education I moved to Tokyo and joined the Immersive Program at Code Chrysalis, a Coding Bootcamp. Since then, I have built various full-stack applications using Express, Flask, Flutter, and React.
 
 Currently, I am living in Tokyo. :sushi:
 
-Strong: JavaScript, React, PostgreSQL, Knex, Express, NodeJS, HTML, CSS, Git.
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+Tech-stack: JavaScript, React, PostgreSQL, Knex, Express, NodeJS, HTML, CSS, Git.
 
 Experienced: Dart/Flutter, Python/Flask, Firebase, Redux, Vue.js, Heroku
 
