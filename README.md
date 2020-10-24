@@ -18,7 +18,7 @@
 
 I am a fullstack software engineer with a background in the nuclear power industry and geology. Studying new languages, exploring the latest technologies, and fishing along the river always gives me a sense of joy and pushes me forward.
 
-My way to software development began when I was working in Kazakhstan :flag-kz:, where I started learning programming at the local coding school. In 2019, to get experience and a comprehensive education I moved to Tokyo and joined the Immersive Program at Code Chrysalis, a Coding Bootcamp. Since then, I have built various full-stack applications using Express, Flask, Flutter, and React.
+My way to software development began when I was working in Kazakhstan, where I started learning programming at the local coding school. In 2019, to get experience and a comprehensive education I moved to Tokyo and joined the Immersive Program at Code Chrysalis, a Coding Bootcamp. Since then, I have built various full-stack applications using Express, Flask, Flutter, and React.
 
 Currently, I am living in Tokyo. :sushi:
 
