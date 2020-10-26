@@ -1,5 +1,6 @@
 <!-- <img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" > -->
-<img src="./123.jpg" >
+
+![123](https://user-images.githubusercontent.com/56150824/97123143-972b3f00-176d-11eb-8fc0-5ecb9e8ccb76.JPG)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mukhtarotarbayev/">
