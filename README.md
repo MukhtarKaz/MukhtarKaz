@@ -1,4 +1,5 @@
-<img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" >
+<!-- <img src="https://cdn.pixabay.com/photo/2016/11/02/08/56/binary-1790842_1280.jpg" > -->
+<img src="./123.jpg" >
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mukhtarotarbayev/">
